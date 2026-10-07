@@ -178,32 +178,244 @@ I'm currently strengthening my analytical and technical skills while actively lo
 
   </p>
   
-## 🧩 Featured Projects
+# 🧩 Featured Projects
+
+<p align="center">
+  <i>A selection of practical projects where I applied data analytics, statistics and machine learning to real-world style problems.</i>
+</p>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- CUSTOMER CHURN -->
+<!-- ===================================================== -->
+
+<table>
+<tr>
+<td width="100%">
 
 ## 🤖 Customer Churn Prediction
-Machine Learning • Feature Engineering • Classification
-Built a customer churn prediction system using real-world style customer data.
-What I worked on
-- Data preprocessing
+
+### Predicting customers at risk of leaving using Machine Learning
+
+Built an end-to-end customer churn prediction pipeline covering **data preprocessing, feature engineering, model training and evaluation**.
+
+<br>
+
+**🛠️ Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Machine Learning`
+
+<br>
+
+**📊 Model Performance**
+
+| Accuracy | Precision | Recall | F1 Score | ROC-AUC |
+|:---:|:---:|:---:|:---:|:---:|
+| **97%** | **78.57%** | **100%** | **88%** | **99.79%** |
+
+<br>
+
+**🔬 What I Built**
+
+- Customer data preprocessing
 - One-hot encoding
 - Feature engineering
-- Handling categorical variables
-- Feature scaling
-- Model training
-- Model evaluation
-- ROC-AUC analysis
-Models
-Logistic Regression
-Decision Tree
-Random Forest
+- Tenure-based customer segmentation
+- Contract & billing behaviour features
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- Model comparison & evaluation
 
-Best Model Performance
-Metric	Result
-Accuracy	97%
-Precision	78.57%
-Recall	100%
-F1 Score	88%
-ROC-AUC	99.79%
+<br>
+
+<p align="center">
+  <a href="https://github.com/viren689/Week10-Customer-Churn-Prediction">
+    <img src="https://img.shields.io/badge/🔗_VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ===================================================== -->
+<!-- HOUSE PRICE -->
+<!-- ===================================================== -->
+
+<table>
+<tr>
+<td width="100%">
+
+## 🏠 House Price Prediction
+
+### Predicting property prices through supervised learning
+
+Developed a machine learning regression project focused on preparing property data, identifying useful features and building a predictive model.
+
+<br>
+
+**🛠️ Tech Stack**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Matplotlib` `Regression`
+
+<br>
+
+**🔬 Project Workflow**
+
+
+Raw Dataset
+     ↓
+Data Cleaning
+     ↓
+Exploratory Analysis
+     ↓
+Feature Preparation
+     ↓
+Regression Model
+     ↓
+Prediction & Evaluation
+
+## 🎯 Key Focus
+- Data preprocessing
+- Exploratory data analysis
+- Feature preparation
+- Regression modelling
+- Model evaluation
+- Prediction analysis
+
+<p align="center">
+  <a href="https://github.com/viren689?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+<!-- ===================================================== -->
+<!-- BLACK FRIDAY -->
+<!-- ===================================================== -->
+
+<table>
+<tr>
+<td width="100%">
+
+🛒 Black Friday Data Analysis
+Understanding customer purchasing behaviour through data
+Analyzed Black Friday purchasing data to uncover customer behaviour, spending patterns, product preferences and demographic trends.
+
+🛠️ Tech Stack
+Python Pandas NumPy Matplotlib Seaborn EDA
+
+📊 Analysis Areas
+👥 Customer	🛍️ Products	💰 Purchases	📈 Trends
+Demographics	Categories	Spending	Behaviour
+
+
+
+🔍 What I Explored
+- Customer demographics
+- Product categories
+- Purchase behaviour
+- Spending patterns
+- Data cleaning
+- Exploratory Data Analysis
+- Business-oriented visualizations
+
+<p align="center">
+  <a href="https://github.com/viren689?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_VIEW_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+<!-- ===================================================== -->
+<!-- DATAFORGE AI -->
+<!-- ===================================================== -->
+
+<table>
+<tr>
+<td width="100%">
+
+🧠 DataForge AI
+An AI-powered data experience focused on making data exploration more accessible
+A modern data-focused application built around the idea of combining AI, analytics and an interactive user experience.
+
+🛠️ Tech Stack
+AI Data Analytics Next.js React TypeScript Tailwind CSS
+
+✨ Highlights
+- Modern analytics-focused interface
+- AI-assisted data experience
+- Interactive user workflow
+- Data-oriented design
+- Responsive web experience
+
+<p align="center">
+  <a href="https://viren-portfolio-gamma.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-0A66C2?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+
+<!-- ===================================================== -->
+<!-- SALES ANALYTICS -->
+<!-- ===================================================== -->
+
+<table>
+<tr>
+<td width="100%">
+
+📊 Sales & E-Commerce Analytics
+Turning transactional data into business insights
+A collection of analytics work focused on sales performance, customer behaviour, product trends and business decision-making.
+
+🛠️ Tech Stack
+Python Pandas Seaborn Matplotlib Plotly Statistics
+
+📈 Analytical Areas
+Sales Data
+    │
+    ├── Customer Analysis
+    │
+    ├── Product Performance
+    │
+    ├── Revenue Trends
+    │
+    ├── Statistical Analysis
+    │
+    └── Data Visualization
+              ↓
+       Business Insights
+
+
+<p align="center">
+  <a href="https://github.com/viren689?tab=repositories">
+    <img src="https://img.shields.io/badge/🔗_EXPLORE_REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+
+🚀 From Raw Data → Analysis → Machine Learning → Insights
 
 
 ## 🔗 Repository:
