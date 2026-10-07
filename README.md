@@ -179,7 +179,8 @@ I'm currently strengthening my analytical and technical skills while actively lo
   </p>
   
 ## 🧩 Featured Projects
-🤖 Customer Churn Prediction
+
+## 🤖 Customer Churn Prediction
 Machine Learning • Feature Engineering • Classification
 Built a customer churn prediction system using real-world style customer data.
 What I worked on
@@ -206,8 +207,11 @@ ROC-AUC	99.79%
 
 
 ## 🔗 Repository:
+
 https://github.com/viren689/Week10-Customer-Churn-Prediction
-🏠 House Price Prediction
+
+## 🏠 House Price Prediction
+
 Machine Learning • Regression • Data Preprocessing
 Developed a machine learning model to predict house prices using property-related features.
 Key concepts
@@ -241,8 +245,11 @@ Focus
 - Data-driven insights
 - Modern web interface
 - Practical analytics experience
+
 ## 🌐 Portfolio:
+
 https://viren-portfolio-gamma.vercel.app/
+
 ## 📊 Sales & E-Commerce Analytics
 Python • Pandas • Seaborn • Business Analytics
 Worked on multiple analytics projects involving sales and e-commerce datasets.
@@ -254,8 +261,11 @@ Covered
 - Data manipulation
 - Statistical analysis
 - Interactive visualizations
+
 ## 🔗 View all repositories:
+
 https://github.com/viren689?tab=repositories
+
 ## 🏆 Achievements & Experience
 🎓 Bachelor of Computer Applications — BCA
 Built a foundation in:
@@ -264,6 +274,7 @@ Built a foundation in:
 - Data structures
 - Software development
 - Computer applications
+
 ## 💼 Data Science / Analytics Internship Experience
 Worked through practical projects covering the complete data workflow:
 Python Fundamentals
@@ -283,7 +294,9 @@ Machine Learning
 Customer Churn Prediction
 
 This hands-on project experience helped me build practical skills beyond theoretical learning.
+
 ## 📚 Project-Based Learning
+
 Completed projects across:
 Python → SQL → Pandas → Visualization → Statistics → Machine Learning
 with a strong focus on applying concepts to practical datasets.
@@ -301,14 +314,92 @@ I'm currently looking for opportunities in:
 ## 🎯 My goal
 Start my professional career in a data-driven organization where I can use analytics and machine learning to solve real-world problems while continuously improving my technical and business skills.
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viren689&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viren689&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
+# 📊 Data Analytics Profile
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=viren689&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  <img src="https://img.shields.io/badge/Python-Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-Data_Manipulation-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Machine_Learning-Practical-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🐍
+**Python**
+
+Data Analysis  
+Data Cleaning  
+Feature Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+**SQL**
+
+Data Retrieval  
+Filtering  
+Aggregation  
+Analysis
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊
+**Analytics**
+
+EDA  
+Statistics  
+Visualization  
+Business Insights
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+**Machine Learning**
+
+Regression  
+Classification  
+Model Evaluation
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🔬 Practical Experience
+
+| Area | Applied In |
+|---|---|
+| 🐍 **Python & Pandas** | Sales Analysis • Customer Analysis • Churn Prediction |
+| 📊 **Data Visualization** | Seaborn • Matplotlib • Plotly • Business Dashboards |
+| 📈 **Statistics** | Statistical Business Analysis • Data Interpretation |
+| 🤖 **Machine Learning** | House Price Prediction • Customer Churn Prediction |
+| 🧩 **Feature Engineering** | Customer Churn Prediction |
+| 🗄️ **SQL** | Currently strengthening advanced SQL & analytical querying |
+
+<br>
+
+### 🏆 Selected Project Results
+
+| Project | Result |
+|---|---|
+| 🤖 Customer Churn Prediction | **97% Accuracy • 99.79% ROC-AUC** |
+| 🌳 Random Forest | **100% Recall • 88% F1 Score** |
+| 📈 Logistic Regression | **100% Recall • 88% F1 Score** |
+| 🏠 House Price Prediction | End-to-end regression project |
+| 🛒 Sales & E-Commerce Analysis | Exploratory & business analysis |
+
+<p align="center">
+  <strong>DATA → ANALYSIS → INSIGHTS → DECISIONS</strong>
 </p>
 
 ## 🚀 What I'm Building Toward
