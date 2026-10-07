@@ -140,43 +140,58 @@ I'm currently strengthening my analytical and technical skills while actively lo
 # 📈 My Analytics Workflow
 
 <p align="center">
-                 ┌──────────────────┐
-                 │    RAW DATA      │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ DATA CLEANING    │
-                 │ & PREPROCESSING  │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ EXPLORATORY      │
-                 │ DATA ANALYSIS    │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ VISUALIZATION    │
-                 │ & STATISTICS     │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ FEATURE          │
-                 │ ENGINEERING      │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ MACHINE          │
-                 │ LEARNING         │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ BUSINESS         │
-                 │ INSIGHTS         │
-                 └──────────────────┘
+  <img src="https://img.shields.io/badge/01_RAW_DATA-161B22?style=for-the-badge&logo=databricks&logoColor=58A6FF">
+  →
+  <img src="https://img.shields.io/badge/02_CLEAN-161B22?style=for-the-badge&logo=pandas&logoColor=58A6FF">
+  →
+  <img src="https://img.shields.io/badge/03_EXPLORE-161B22?style=for-the-badge&logo=python&logoColor=58A6FF">
+  →
+  <img src="https://img.shields.io/badge/04_VISUALIZE-161B22?style=for-the-badge&logo=plotly&logoColor=58A6FF">
+  →
+  <img src="https://img.shields.io/badge/05_ENGINEER-161B22?style=for-the-badge&logo=scikitlearn&logoColor=58A6FF">
+  →
+  <img src="https://img.shields.io/badge/06_MODEL-161B22?style=for-the-badge&logo=scikitlearn&logoColor=58A6FF">
+  →
+  <img src="https://img.shields.io/badge/07_INSIGHTS-161B22?style=for-the-badge&logo=googleanalytics&logoColor=58A6FF">
+</p>
 
-          DATA → ANALYSIS → INSIGHTS → DECISIONS
+<br>
 
-  </p>
+<table align="center">
+<tr>
+<td align="center">📥<br><strong>Raw Data</strong><br><sub>Collect</sub></td>
+<td>→</td>
+<td align="center">🧹<br><strong>Clean</strong><br><sub>Prepare</sub></td>
+<td>→</td>
+<td align="center">🔍<br><strong>Explore</strong><br><sub>Understand</sub></td>
+<td>→</td>
+<td align="center">📊<br><strong>Visualize</strong><br><sub>Discover</sub></td>
+<td>→</td>
+<td align="center">🧩<br><strong>Engineer</strong><br><sub>Transform</sub></td>
+<td>→</td>
+<td align="center">🤖<br><strong>Model</strong><br><sub>Predict</sub></td>
+<td>→</td>
+<td align="center">💡<br><strong>Insights</strong><br><sub>Decide</sub></td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <strong>RAW DATA</strong>
+  &nbsp; → &nbsp;
+  <strong>ANALYSIS</strong>
+  &nbsp; → &nbsp;
+  <strong>MODELING</strong>
+  &nbsp; → &nbsp;
+  <strong>INSIGHTS</strong>
+  &nbsp; → &nbsp;
+  <strong>DECISIONS</strong>
+</p>
+
+<p align="center">
+  <i>Turning structured and unstructured data into meaningful, actionable insights.</i>
+</p>
   
 # 🧩 Featured Projects
 
@@ -425,67 +440,98 @@ Sales Data
 
 https://github.com/viren689?tab=repositories
 
-## 🏆 Achievements & Experience
-🎓 Bachelor of Computer Applications — BCA
-Built a foundation in:
-- Programming
-- Database concepts
-- Data structures
-- Software development
-- Computer applications
 
-## 💼 Data Science / Analytics Internship Experience
-Worked through practical projects covering the complete data workflow:
-Python Fundamentals
+# 🏆 Achievements & Experience
 
-        ↓
+<table>
+<tr>
 
-Data Analysis
+<td width="50%" valign="top">
 
-        ↓
+### 🎓 Bachelor of Computer Applications
 
-Data Visualization
-        
-        ↓
+**BCA Graduate**
 
-Pandas & Data Manipulation
+Built a strong foundation in programming, databases and software development, while developing a specialization toward **Data Analytics and Data Science**.
 
-        ↓
+**Core Foundation**
 
-Statistics
+`Programming` `Databases` `Analytics` `Software Development`
 
-        ↓
+</td>
 
-Business Analysis
+<td width="50%" valign="top">
 
-        ↓
-        
-Machine Learning
-        
-        ↓
-        
-Customer Churn Prediction
+### 💼 Data Science & Analytics Internship
 
-This hands-on project experience helped me build practical skills beyond theoretical learning.
+Hands-on experience applying data concepts through practical projects across the complete analytics workflow.
 
-## 📚 Project-Based Learning
+**Experience**
 
-Completed projects across:
-Python → SQL → Pandas → Visualization → Statistics → Machine Learning
-with a strong focus on applying concepts to practical datasets.
-💼 Career Target
-I'm currently looking for opportunities in:
+`Python` `Pandas` `Visualization` `Statistics` `Machine Learning`
+
+**Projects**
+
+Sales Analysis • Business Analysis • House Price Prediction • Customer Churn Prediction
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
 <p align="center">
 
-<img src="https://img.shields.io/badge/Data_Analyst-0A66C2?style=for-the-badge">
-<img src="https://img.shields.io/badge/Junior_Data_Analyst-2563EB?style=for-the-badge">
-<img src="https://img.shields.io/badge/Data_Scientist-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/ML_Analyst-9333EA?style=for-the-badge">
+### 🎯 From Data to Decisions
+
+**Collect → Clean → Analyze → Visualize → Model → Interpret**
 
 </p>
 
-## 🎯 My goal
-Start my professional career in a data-driven organization where I can use analytics and machine learning to solve real-world problems while continuously improving my technical and business skills.
+<p align="center">
+<i>Building practical skills by solving real-world style data problems.</i>
+</p>
+
+# 🚀 Career Direction
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA_ANALYTICS-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/DATA_SCIENCE-7C3AED?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MACHINE_LEARNING-9333EA?style=for-the-badge">
+</p>
+
+<p align="center">
+  <strong>Turning data into insights and building practical solutions with Python, SQL & Machine Learning.</strong>
+</p>
+
+<br>
+
+### 🎯 What I'm Looking For
+
+I'm looking to begin my professional career in a **data-driven team** where I can work on real business problems, contribute through analytics, and continue developing my skills in **SQL, Python, data visualization and machine learning**.
+
+<br>
+
+### 📈 My Growth Path
+
+<p align="center">
+
+**SQL & Analytics**  
+↓  
+**Python & Data Analysis**  
+↓  
+**Statistics & Visualization**  
+↓  
+**Machine Learning**  
+↓  
+**Real-World Data Problems**
+
+</p>
+
+<br>
+
+> **Goal:** Build meaningful data solutions, learn from real-world challenges, and grow into a well-rounded data professional.
 
 # 📊 Data Analytics Profile
 
@@ -575,61 +621,103 @@ Model Evaluation
   <strong>DATA → ANALYSIS → INSIGHTS → DECISIONS</strong>
 </p>
 
-## 🚀 What I'm Building Toward
-                    MY DATA JOURNEY
+# 🚀 My Data Journey
 
-                         🎯
-                    DATA CAREER
-                         │
-          ┌──────────────┼──────────────┐
-          ↓              ↓              ↓
-       ANALYTICS      DATA SCIENCE       ML
-          │              │              │
-          ↓              ↓              ↓
-        SQL           Python        Scikit-Learn
-          │              │              │
-          └──────────────┼──────────────┘
-                         ↓
-                  REAL-WORLD PROJECTS
-                         ↓
-                  BUSINESS INSIGHTS
-                         ↓
-                  BETTER DECISIONS
+<p align="center">
+  <img src="https://img.shields.io/badge/01_ANALYTICS-0A66C2?style=for-the-badge">
+  →
+  <img src="https://img.shields.io/badge/02_DATA_SCIENCE-7C3AED?style=for-the-badge">
+  →
+  <img src="https://img.shields.io/badge/03_MACHINE_LEARNING-9333EA?style=for-the-badge">
+  →
+  <img src="https://img.shields.io/badge/04_BUSINESS_IMPACT-161B22?style=for-the-badge">
+</p>
 
-## 📌 Currently Improving
-- 🔹 Advanced SQL
-- 🔹 Data Analytics
-- 🔹 Python for Data Science
-- 🔹 Statistics
-- 🔹 Machine Learning
-- 🔹 Data Visualization
-- 🔹 Interview Preparation
-- 🔹 Business Problem Solving
+<p align="center">
+  <strong>Learn → Build → Analyze → Solve → Grow</strong>
+</p>
 
-## 🤝 Connect With Me
+<p align="center">
+  <i>Building practical data skills through continuous learning and hands-on projects.</i>
+</p>
+
+# 📌 Currently Improving
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🗄️ SQL
+
+Advanced querying  
+Joins • CTEs • Aggregations
+
+</td>
+
+<td align="center" width="25%">
+
+### 🐍 Python
+
+Data analysis  
+Pandas • NumPy • EDA
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 Machine Learning
+
+Model building  
+Evaluation • Feature Engineering
+
+</td>
+
+<td align="center" width="25%">
+
+### 📊 Analytics
+
+Statistics  
+Visualization • Business Insights
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <i>Currently focused on becoming stronger at solving real-world data problems.</i>
+</p>
+
+# 🤝 Let's Connect
+
 <p align="center">
 
 <a href="https://github.com/viren689">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://viren-portfolio-gamma.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 
 <a href="mailto:viren19271@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
 
+<br>
+
+---
+
 <p align="center">
+  💡 Turning Data Into Insights. Building Toward Impact.
 
-💡 Turning Data Into Insights. Building Toward Impact.
-Thanks for visiting my profile!
-⭐ Feel free to explore my repositories and projects.
+
+<p align="center">
+  **Thanks for stopping by.**
+
+
+<p align="center">
+  <i>Built with curiosity • Driven by data • Focused on continuous growth</i>
+
 </p>
-
-<!-- ========================================================= -->
-<!--                     END OF README                         -->
-<!-- ========================================================= -->
