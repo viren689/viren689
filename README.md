@@ -418,10 +418,10 @@ Sales Data
 
 <p align="center">
 
-🚀 From Raw Data → Analysis → Machine Learning → Insights
 
+## 🚀 From Raw Data → Analysis → Machine Learning → Insights
 
-## 🔗 View all repositories:
+🔗 View all repositories:
 
 https://github.com/viren689?tab=repositories
 
@@ -437,19 +437,33 @@ Built a foundation in:
 ## 💼 Data Science / Analytics Internship Experience
 Worked through practical projects covering the complete data workflow:
 Python Fundamentals
+
         ↓
+
 Data Analysis
+
         ↓
+
 Data Visualization
+        
         ↓
+
 Pandas & Data Manipulation
+
         ↓
+
 Statistics
+
         ↓
+
 Business Analysis
+
         ↓
+        
 Machine Learning
+        
         ↓
+        
 Customer Churn Prediction
 
 This hands-on project experience helped me build practical skills beyond theoretical learning.
