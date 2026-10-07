@@ -306,7 +306,8 @@ Prediction & Evaluation
 <tr>
 <td width="100%">
 
-🛒 Black Friday Data Analysis
+## 🛒 Black Friday Data Analysis
+
 Understanding customer purchasing behaviour through data
 Analyzed Black Friday purchasing data to uncover customer behaviour, spending patterns, product preferences and demographic trends.
 
@@ -347,7 +348,8 @@ Demographics	Categories	Spending	Behaviour
 <tr>
 <td width="100%">
 
-🧠 DataForge AI
+## 🧠 DataForge AI
+
 An AI-powered data experience focused on making data exploration more accessible
 A modern data-focused application built around the idea of combining AI, analytics and an interactive user experience.
 
@@ -380,7 +382,8 @@ AI Data Analytics Next.js React TypeScript Tailwind CSS
 <tr>
 <td width="100%">
 
-📊 Sales & E-Commerce Analytics
+## 📊 Sales & E-Commerce Analytics
+
 Turning transactional data into business insights
 A collection of analytics work focused on sales performance, customer behaviour, product trends and business decision-making.
 
@@ -417,62 +420,6 @@ Sales Data
 
 🚀 From Raw Data → Analysis → Machine Learning → Insights
 
-
-## 🔗 Repository:
-
-https://github.com/viren689/Week10-Customer-Churn-Prediction
-
-## 🏠 House Price Prediction
-
-Machine Learning • Regression • Data Preprocessing
-Developed a machine learning model to predict house prices using property-related features.
-Key concepts
-- Data preprocessing
-- Exploratory analysis
-- Feature preparation
-- Regression modelling
-- Model evaluation
-- Prediction analysis
-## 🔗 Explore more projects:
-https://github.com/viren689?tab=repositories
-🛒 Black Friday Data Analysis
-Python • Pandas • EDA • Data Visualization
-Analyzed Black Friday purchasing data to understand customer purchasing behavior and identify useful business patterns.
-Focus areas
-- Customer demographics
-- Purchase behaviour
-- Product categories
-- Spending patterns
-- Data cleaning
-- Exploratory analysis
-- Visualization
-## 🔗 GitHub Projects:
-https://github.com/viren689?tab=repositories
-🧠 DataForge AI
-AI • Data Analysis • Web Application
-A data-focused AI project designed to make working with data more accessible through an interactive experience.
-Focus
-- Data exploration
-- AI-assisted workflows
-- Data-driven insights
-- Modern web interface
-- Practical analytics experience
-
-## 🌐 Portfolio:
-
-https://viren-portfolio-gamma.vercel.app/
-
-## 📊 Sales & E-Commerce Analytics
-Python • Pandas • Seaborn • Business Analytics
-Worked on multiple analytics projects involving sales and e-commerce datasets.
-Covered
-- Sales trends
-- Customer analysis
-- Product performance
-- Revenue patterns
-- Data manipulation
-- Statistical analysis
-- Interactive visualizations
 
 ## 🔗 View all repositories:
 
